@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "my first blog"
+title: "my first blog demo"
 date: 2020-07-24 22:22:23 +0000
 categories: jekyll update
 ---
